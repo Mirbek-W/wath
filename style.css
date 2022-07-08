@@ -1,0 +1,623 @@
+.glav{
+    width:90%;
+    margin-left:5%;
+}
+
+
+.glavnn{
+    width:90%;
+    margin-left:5%;
+    background-color: #c0c0c0;
+    position: relative;
+    top:450px;
+
+}
+.bg-lignt{
+    height:230px;
+    background-color: white;
+}
+.lls{
+    position: relative;
+    left:90px;
+}
+
+
+.mar1{
+    position: relative;
+    left:13px;
+    border-right: 1px solid #dddbdb;
+}
+.meny{
+    width:90%;
+    height:83px;
+    margin-left:50px;
+    background-color:rgb(255, 255, 255);
+    border-bottom:1px solid #dddbdb;
+}
+
+.img1{
+    width:180px;
+}
+
+.input1{
+
+    margin-left:100px;
+    
+    width:650px;
+    height:50px;
+    border:1px solid  #dddbdb;
+} 
+.iop1{
+   position: absolute;
+   left:-300px;
+}
+.submit3{
+    
+    position: relative;
+    left:-50px;
+}
+
+.div1{
+    width:214px;
+    height:83px;
+    border:1px solid #dddbdb;
+    position: relative;
+    left:1000px;
+    top:-60px;
+}
+.iop2{
+    width:40px;
+    height:40px;
+    border-radius: 50%;
+    float: left;
+    margin-top:10px;
+
+}
+.iop3{
+    margin-top:20px;
+}
+.div2{
+    position: relative;
+    left: 1214px ;
+    top:-143px;
+    border:1px solid #dddbdb;
+    width:106px;
+    height:83px;
+}
+.iop6{
+    margin-top: 10px;
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    float: left;
+
+}
+.lolo{
+    width:45px;
+    position: relative;
+    top:25px;
+    left:30px;
+}
+.iop8{
+    width:15px;
+    
+    float: left;
+    margin-top:30px;
+    margin-left:10px;
+}
+
+.meny2{
+    width:100%;
+    height:83px;
+
+}
+
+.dropd{
+  width:190px;
+  height:100%;
+  
+  position: relative;
+  left:40px;
+  top:-60px;
+  border-right:1px solid #dddbdb;
+  float: left;
+}
+.iop11{
+    width:30px;
+
+}
+
+.iop9{
+    position: relative;
+    top:20px;
+    left:-100px;
+    
+}
+.ipo10{
+     position: relative;
+     top:5px;
+     left:-10px;
+
+}
+
+.iop12{
+    position: relative;
+    left:100px;
+    top:-60px;
+    float: left;
+
+    height:100%;
+}
+
+.con1{
+    width:auto;
+    height:100%;
+    float: left;
+    margin:10px;
+  
+
+}
+
+
+
+.up1 {
+    position: relative;
+    top:4px;
+    left:40%;
+	width: 0;
+	height: 0;
+	border-left: 6px solid transparent;
+	border-right: 6px solid transparent;
+	border-bottom: 12px solid #0063D1;
+    display:none;
+}
+
+.menu-con1:hover .up1{
+    display: block;
+    top:-1px;
+}
+
+.con1:hover{
+    border-bottom:1px solid #0063D1;
+
+}
+
+.con1:hover .up1{
+    display: block;
+}
+
+.divj{
+    position: relative;
+    left:180px;
+    top:-61px;
+    width:107px;
+    height:100%;
+    float: left;
+    border:1px solid #dddbdb;
+}
+
+.content13{
+    background-color: #F2F2F2;
+    width:100%;
+}
+.iopr{
+    width:100%;
+    height:aut;
+}
+.red-1{
+    
+    font-size:x-small;
+    width:150px;
+    height:18px;
+    background-color:#FC4351;
+    color:white;
+    border-radius:4px;
+}
+
+.iopiop{
+    position: relative;
+    left:100px;
+    top:100px;
+}
+
+.color2{
+    color: rgb(190, 190, 190);
+}
+.iill{
+    width:20px;
+    float: left;
+}
+.kol{
+    position: relative;
+    top:30px;
+    left:40px;
+}
+
+
+.hobit{
+    width:250px;
+    height:400px;
+    position: relative;
+    left:30px;
+    top:40px;
+    background-color: white;
+
+
+}
+
+
+.ioi{
+    width:60px;
+    margin-left:10px;
+}
+
+
+.blol{
+    position: relative;
+    left:150px;
+    top:100px;
+    width:1000px;
+    height:100px;
+    border:1px solid #dddbdb;
+    border-radius:6px;
+   
+}
+
+
+.tovar-men{
+    position: relative;
+    left:150px;
+    top:200px;
+    width:1000px;
+    height:68px;
+    border-bottom: 1px solid #dddbdb;
+
+}
+
+.menu-con1{
+
+    color: #dddbdb;
+    float: left;
+    margin-left:30px;
+}
+.flfl4{
+    float: left;
+}
+.foj{
+    width:400px;
+    float:left;
+}
+
+
+.menu-con1:hover{
+    color:black;
+    border-bottom: 1px solid #0063D1;
+}
+
+.text3{
+    margin:20px;
+}
+
+
+
+
+
+
+.supdek{
+    position: relative;
+    left:580px;
+    top:70px;
+    width:160px;
+    height:20px;
+    color: white;
+    background-color: #FC4351;
+    border-radius:6px;
+
+}
+
+
+.lo1{
+    margin-left:-6px;
+    width:60px;
+    float: left;
+}
+
+.content-14{
+    width:100%;
+   
+}
+
+
+
+.up2 {
+    position: relative;
+    top:1px;
+    left:26px;
+	width: 0;
+	height: 0;
+	border-left: 6px solid transparent;
+	border-right: 6px solid transparent;
+	border-bottom: 12px solid #0063D1;
+    display: none;
+}
+
+
+
+.up3 {
+    position: relative;
+    top:9px;
+    left:26px;
+	width: 0;
+	height: 0;
+	border-left: 6px solid transparent;
+	border-right: 6px solid transparent;
+	border-bottom: 12px solid #0063D1;
+    display: none; 
+}
+
+.tov2{
+    width:100%;
+    height:133px;
+}
+.tov2:hover{
+    border-bottom: 1px solid #0063D1;
+    
+}
+
+ 
+
+.tov2:hover .up3{
+    display: block;
+}
+
+
+.tov1:hover{
+    border-bottom: 1px solid #0063D1;
+    
+}
+
+
+
+.tov1:hover .up2{
+    display: block;
+}
+
+
+
+
+.tov1{
+    width:100%;
+    height:133px;
+   
+}
+
+
+
+.line2{
+    border-bottom:1px solid #dddbdb;
+}
+
+.sho1{
+    width:90px;
+    height: auto;
+   margin-left:-30px;
+   margin-top:20px;
+}
+
+
+.s40{
+    margin-top:5px;
+    margin-left:10px;
+    width:40px;
+    height:20px;
+    background-color:#FC4351;
+    color: white;
+    border-radius: 4px;
+}
+
+.con-towar{
+    width:1000px;
+    position: relative;
+    left:130px;
+    top:280px;
+}
+
+.ioll{
+    width:20px;
+}
+
+.iou{
+    width:60px;
+    float: left;
+}
+
+.kor{
+    
+    display:none;
+    
+
+}
+.btn-light{
+    border:1px solid #dddbdb;
+}
+.kor1:hover .kor{
+    display: block;
+ 
+
+}
+
+.left1{
+    position: relative;
+    top:-100px;
+}
+.left{
+    margin-left:80px;
+}
+
+.left3{
+    margin-left:450px;
+}
+
+
+
+.sstt{
+    position: relative;
+    left:150px;
+    top:0px;
+
+
+    width:1000px;
+    left:120px;
+}
+
+
+
+.timer__items {
+    position: relative;
+    left:-100px;
+    top:0px;
+    display: flex;
+    font-size: 23px;
+    float: left;
+  }
+  .timer__item {
+    position: relative;
+    min-width: 60px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-bottom: 15px;
+    text-align: center;
+    background-color: #0063D1;
+    border-radius:3px;
+    color: white;
+    
+  }
+  .timer__item::before {
+    content: attr(data-title);
+    display: block;
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%);
+    font-size: 14px;
+  }
+  .timer__item:not(:last-child)::after {
+    content: ':';
+    position: absolute;
+    right: -15px;
+  }
+
+  .iop43{
+    width:80%;
+    margin-left:50px;
+  }
+
+.glavn3{
+    position: relative;
+    top:700px;
+    width:100%;
+
+
+  }
+.gl11{
+    width: 1523px;
+}
+
+.io{
+    border:1px solid #c0c0c0;
+
+}
+  .iop91{
+    
+    border-bottom:1px solid #c0c0c0;
+    
+  }
+
+
+  .io23{
+    width:120px;
+  }
+
+.iop91:hover{
+    border:1px solid #c0c0c0;
+}
+
+.lo23{
+    position:relative;
+    top:1px;
+    left: 50px;
+}
+
+.oppe{
+    width:100%;
+    
+}
+
+.clso{
+    border:1px solid #c0c0c0;
+}
+
+.iop91:hover{
+    border-bottom:2px solid #0063D1;
+}
+.iop91:hover .up1{
+    display: block;
+
+}
+
+
+.con76{
+    position: relative;
+    top:250px;
+    width:90%;
+    margin-left:5%;
+}
+
+
+
+
+.comn{
+    width:1000px;
+    position: relative;
+    left:150px;
+    top:300px;
+    
+}
+
+.img-comn{
+    width:60px;
+}
+.lo89{
+    float: left;
+}
+
+.loki{
+    position: relative;
+    left: 700px;
+    width:400px;
+}
+
+.iop81{
+    margin-left:30px;
+    border:1px solid #c0c0c0;
+    float: left;
+}
+
+
+
+
+
+.kon{
+    background-color: #dbdbdb;
+    position: relative;
+    top:400px;
+    width:100%;
+
+}
+
+
+
+
+
+
+
